@@ -6,16 +6,16 @@ This project demonstrates strong fundamentals of layout design, styling, and UI 
 amazonclone/
 │
 ├── assets/
-│   └── images/
-│       ├── box1_image.jpg
-│       ├── box2_image.jpg
-│       ├── box3_image.jpg
-│       ├── box4_image.jpg
-│       ├── box5_image.jpg
-│       ├── box6_image.jpg
-│       ├── box7_image.jpg
-│       ├── box8_image.jpg
-│       └── hero_image.jpg
+│ └── images/
+│ ├── box1_image.jpg
+│ ├── box2_image.jpg
+│ ├── box3_image.jpg
+│ ├── box4_image.jpg
+│ ├── box5_image.jpg
+│ ├── box6_image.jpg
+│ ├── box7_image.jpg
+│ ├── box8_image.jpg
+│ └── hero_image.jpg
 │
 ├── favicon.ico
 ├── index.html
