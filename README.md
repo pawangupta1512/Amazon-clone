@@ -18,38 +18,41 @@ amazonclone/
 ├── index.html
 └── style.css
 
-🚀 Key Features
+.🚀 Key Features
 .🎯 Amazon-inspired UI design
-🖼️ Hero banner section
-📦 Product category grid
-🎨 Clean and structured CSS styling
-📁 Well-organized assets folder
-🛠️ Tech Stack
-HTML5 – Structure
-CSS3 – Styling & Layout
-🎯 Purpose of Project
-
-This project was built to:
-
-Practice frontend development basics
-Understand layout & positioning
-Improve UI design skills
-Build a portfolio-ready project
+.🖼️ Hero banner section
+.📦 Product category grid
+.🎨 Clean and structured CSS styling
+.📁 Well-organized assets folder
 
 
-▶️ How to Run Locally
+.🛠️ Tech Stack
+.HTML5 – Structure
+.CSS3 – Styling & Layout
 
-Clone the repository
+.🎯 Purpose of Project
 
-git clone https://github.com/your-username/amazon-clone.git
-Open the project folder
+.This project was built to:
 
-Run:
-index.html
+.Practice frontend development basics
+.Understand layout & positioning
+.Improve UI design skills
+.Build a portfolio-ready project
 
 
-🔮 Future Enhancements
-📱 Fully responsive design
-🔍 Search functionality
-🛒 Add to cart feature
-⚡ JavaScript interactivity
+.▶️ How to Run Locally
+
+.Clone the repository
+
+.git clone https://github.com/pawangupta1512/amazon-clone.git
+.Open the project folder
+
+.Run:
+.index.html
+
+
+.🔮 Future Enhancements
+.📱 Fully responsive design
+.🔍 Search functionality
+.🛒 Add to cart feature
+.⚡ JavaScript interactivity
