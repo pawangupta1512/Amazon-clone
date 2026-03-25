@@ -3,7 +3,7 @@ This project demonstrates strong fundamentals of layout design, styling, and UI 
 
 ## 📁 Project Structure
 
-**```
+```
 amazonclone/
 │
 ├── 📁 assets/
@@ -21,7 +21,7 @@ amazonclone/
 ├── 🌐 index.html
 ├── 🎨 style.css
 └── ⭐ favicon.ico
-**
+```
 
 ## 🚀 Key Features
 
